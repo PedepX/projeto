@@ -1,4 +1,4 @@
-[v1.0.0] [2026-05-13]
+[v1.0.1] [2026-05-13]
 
 ### Added
-    -  Adicionado sistema completo de login.
+    -  Adicionado Usuário no sistema de Login.
