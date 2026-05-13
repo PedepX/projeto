@@ -1,8 +1,4 @@
-Feature: login
-### Added
->> Adicionado sistema completo de login.
+[v1.0.0] [2026-05-13]
 
-    - Função "Esqueceu sua Senha?" para recuperar a senha;
-    - Login via Google;
-    - Cadastrar nova senha;
-    - Criar nova conta.
+### Added
+    -  Adicionado sistema completo de login.
